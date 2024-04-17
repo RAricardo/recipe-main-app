@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/recipe-main-app/static/css/main.62678343.css",
+    "main.css": "/recipe-main-app/static/css/main.6a74071c.css",
     "main.js": "/recipe-main-app/static/js/main.1f92897e.js",
     "static/js/453.6ca33fea.chunk.js": "/recipe-main-app/static/js/453.6ca33fea.chunk.js",
     "static/media/Outfit-VariableFont_wght.ttf": "/recipe-main-app/static/media/Outfit-VariableFont_wght.00c2ed1a3bf798b0da27.ttf",
     "static/media/YoungSerif-Regular.ttf": "/recipe-main-app/static/media/YoungSerif-Regular.564996966d3552bf6282.ttf",
     "index.html": "/recipe-main-app/index.html",
-    "main.62678343.css.map": "/recipe-main-app/static/css/main.62678343.css.map",
+    "main.6a74071c.css.map": "/recipe-main-app/static/css/main.6a74071c.css.map",
     "main.1f92897e.js.map": "/recipe-main-app/static/js/main.1f92897e.js.map",
     "453.6ca33fea.chunk.js.map": "/recipe-main-app/static/js/453.6ca33fea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62678343.css",
+    "static/css/main.6a74071c.css",
     "static/js/main.1f92897e.js"
   ]
 }
