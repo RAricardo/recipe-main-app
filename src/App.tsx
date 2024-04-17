@@ -14,7 +14,6 @@ function App() {
             your choice of cheese, vegetables, or meats.
           </p>
         </section>
-        <Separator />
         <section>
           <div className="prep-section">
             <h3>Preparation time</h3>
@@ -31,7 +30,6 @@ function App() {
             </ul>
           </div>
         </section>
-        <Separator />
         <section>
           <h2>Ingredients</h2>
           <ul>
