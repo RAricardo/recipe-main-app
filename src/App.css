@@ -54,6 +54,7 @@ section {
   gap: 12px;
   align-self: stretch;
   margin-top: 24px;
+  line-height: 150%;
 }
 
 .flex-row {
