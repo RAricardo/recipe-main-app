@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="card">
-      <img className="image" src="images/image-omelette.jpeg" />
+      <img className="image" src="images/image-omelette.jpeg" alt="omelette" />
 
       <div className="body">
         <section>

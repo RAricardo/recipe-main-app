@@ -150,6 +150,7 @@ li {
 
 ol {
   padding-left: 24px;
+  margin: 0;
 }
 
 @media screen and (max-width: 640px) {
