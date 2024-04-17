@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/recipe-main-app/static/css/main.42a8e447.css",
+    "main.js": "/recipe-main-app/static/js/main.03b1996d.js",
+    "static/js/453.6ca33fea.chunk.js": "/recipe-main-app/static/js/453.6ca33fea.chunk.js",
+    "static/media/Outfit-VariableFont_wght.ttf": "/recipe-main-app/static/media/Outfit-VariableFont_wght.00c2ed1a3bf798b0da27.ttf",
+    "static/media/YoungSerif-Regular.ttf": "/recipe-main-app/static/media/YoungSerif-Regular.564996966d3552bf6282.ttf",
+    "index.html": "/recipe-main-app/index.html",
+    "main.42a8e447.css.map": "/recipe-main-app/static/css/main.42a8e447.css.map",
+    "main.03b1996d.js.map": "/recipe-main-app/static/js/main.03b1996d.js.map",
+    "453.6ca33fea.chunk.js.map": "/recipe-main-app/static/js/453.6ca33fea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42a8e447.css",
+    "static/js/main.03b1996d.js"
+  ]
+}
